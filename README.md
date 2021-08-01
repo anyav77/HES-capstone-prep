@@ -1,2 +1,2 @@
-# e15 Course work for CSCI E-15
-Spring 2020
+# Harvard Extention School
+Digital Media Capstone prep
