@@ -20,7 +20,7 @@ Streaming can be achieved with self-hosted video files using plugins like [larav
 
 In a nutshell, the video file uploaded to the media server is converted into multiple formats.  When the browser makes a request for a file, the server detects a browser version and the connection type and serves the corresponding file.
 
-![Streaming on-demand video diagram](https://raw.githubusercontent.com/anyav77/e15/master/independent-study/images/video-streaming.gif)
+![Streaming on-demand video diagram](https://raw.githubusercontent.com/anyav77/HES-capstone-prep/master/independent-study/images/video-streaming.gif)
 
 There are a variety of video-hosting providers, ranging from Free to Freemium to Enterprize:
 
