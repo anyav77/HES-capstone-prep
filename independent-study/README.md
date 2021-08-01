@@ -109,7 +109,7 @@ The cloud-based, on-demand streaming solution can be achieved with the combinati
 * Amazon CloudFront
 * Compatible Media Player
 
-![Streaming on-demand video with AWS diagram](https://raw.githubusercontent.com/anyav77/e15/master/independent-study/images/workflow-aws-on-demand-streaming.png)
+![Streaming on-demand video with AWS diagram](https://raw.githubusercontent.com/anyav77/HES-capstone-prep/master/independent-study/images/workflow-aws-on-demand-streaming.png)
 
 The workflow involves:
 1. Uploading video into S3 bucket
